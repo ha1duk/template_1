@@ -1,12 +1,19 @@
 .grid   {
+    border-color: blue;
+
     
 }
 
 .grid-item {
     width: 24%;
+    border-color: black;
+    background-color: aquamarine;
 
 }
 
 .grid-item--widht2 {
     width: 48%;
+    border:2px solid;
+    border-color: crimson;
+    background-color:deepskyblue;
 }
